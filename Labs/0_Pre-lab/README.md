@@ -36,7 +36,7 @@ To run the VMs, we will use [VirtualBox](https://www.virtualbox.org/), an open-s
 To set up the labs:
 
 1. Download and install Vagrant and VirtualBox.
-2. Go into the [VMs](https://github.com/bris-sys-sec/labs/tree/master/vms) folder and run Vagrant to configure the machines:
+2. Go into the [VMs](https://github.com/bris-sys-sec/labs/tree/master/VMs) folder and run Vagrant to configure the machines:
    ```bash
    $ vagrant up
    ```

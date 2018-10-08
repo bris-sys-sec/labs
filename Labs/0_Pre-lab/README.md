@@ -135,7 +135,7 @@ $ ./lots-of-output | tee log.txt
 Sometimes you don't care about a command's output.
 In this case, you can redirect it to `/dev/null` which is a special file that discards anything written to it.
 
-### Pipes
+### Pipes
 
 A pipe connects the standard output of one program to the standard input
 of another.
@@ -322,7 +322,7 @@ In contrast, a TCP socket (without firewalls) is wide open to the world.
 
 Sockets are nice but we have to invent our own communications protocol: in the example above, we used the word `END` to indicate that a conversation is over and expected every message to fit in a single 1024 byte buffer.
 
-**Exercise**: Recall how HTTP deals with this problem?
+**Exercise**: Recall how HTTP deals with this problem.
 
 Pseudo-terminals (PTYs) are more powerful abstractions.
 The terminal you have been using so far (xterm, gnome-terminal, or similar) implements a pseudo-terminal internally to communicate with the (Bash) shell that you have been using.
@@ -385,7 +385,7 @@ You could try 1000 combinations by hand... or you could write a script to do it 
 **Exercise**: Find the PIN, for example by calling the program in a loop, trying all remaining 1000 possibilities.
 Use any language and tools that you like.
 
-## Understanding vagrant
+## Understanding Vagrant
 
 Vagrant is a software that helps to automate the provision of virtual machines.
 Scripts are written in [Ruby](https://www.ruby-lang.org/en/), let's have a look at the script we used at the start of the lab:
@@ -432,7 +432,6 @@ Vagrant.configure("2") do |config|
         echo "-----------------"
         echo "Preparing labs..."
         sudo -H -u vagrant bash -c "cd /home/vagrant; git clone https://github.com/bris-sys-sec/labs.git;"
-    #     sudo -H -u vagrant bash -c "pip install pexpect;"
 
         # Setup the Vulnerable Machine for SQL
         echo ""
@@ -444,7 +443,7 @@ Vagrant.configure("2") do |config|
         mkdir /tmp/collabtive
         cd /tmp/collabtive
         cp /tmp/sql_collabtive.tar.gz /tmp/collabtive
-    #     tar -xvzf sql_collabtive.tar.gz -C . # This seems to fail, so we use 7zip instead
+        # tar -xvzf sql_collabtive.tar.gz -C . # This seems to fail, so we use 7zip instead
         7z x sql_collabtive.tar.gz
         7z x sql_collabtive.tar
         mv var/www/SQL /var/www/SQL
@@ -529,7 +528,7 @@ SHELL
 ```
 There you can issue commands as you would in the terminal.
 This is a good way to ensure that your lab results are reproducible.
-You are strongly encouraged to provide alongside your coursework vagrant scripts that setup an environment where your work can be easily reproduced by your marker.
+You are strongly encouraged to provide alongside your coursework Vagrant scripts that setup an environment where your work can be easily reproduced by your marker.
 You may also be able to perform the attack in your provision script.
 
 
@@ -550,12 +549,12 @@ end
 ```
 The numbers need to be adjusted based on your configuration.
 
-Some basic vagrant command:
+Some basic Vagrant command:
 `vagrant up` start (and provision if need be a vm).
 `vagrant halt` stop a vm.
 `vagrant destroy` delete a vm.
 
-If your vagrant script contains several VMs you can issue those commands to a single one, for example, `vagrant up vm1a` only start/provision `vm1a`.
+If your Vagrant script contains several VMs you can issue those commands to a single one, for example, `vagrant up vm1a` only start/provision `vm1a`.
 
 ## `socat` _(optional advanced topic)_
 

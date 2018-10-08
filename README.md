@@ -17,3 +17,9 @@ Labs
 3. [SQL Injection](https://github.com/bris-sys-sec/labs/tree/master/Labs/3_SQL_Injection)
 4. [Networks](https://github.com/bris-sys-sec/labs/tree/master/Labs/4_Networks)
 
+Docs
+----
+
+There is a [separate repository with documents relevant for the couse](https://github.com/bris-sys-sec/docs).
+In particular, here you can find a [timetable](https://github.com/bris-sys-sec/docs/blob/master/TimetableByWeekPDF.pdf) and the [coursework specs](https://github.com/bris-sys-sec/docs/blob/master/coursework.pdf).
+

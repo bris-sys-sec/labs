@@ -127,7 +127,7 @@ We can test whether our shellcode works by setting up a program that calls it ex
 Use `test.c` from this lab's directory and compile it as follows:
 
 ```bash
-$ gcc -z execstack -f no-stack-protector test.c -o test
+$ gcc -z execstack -fno-stack-protector test.c -o test
 ```
 
 It reads the file called `badfile` into a buffer and then executes this buffer with the following marvel of C syntax:

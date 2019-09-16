@@ -4,10 +4,10 @@ This year there will be four lab tasks split into two pieces of coursework. Each
 -	Coursework 1 covers labs 1 and 2 (format strings and buffer overflows). These labs are in weeks 5 and 6 and Coursework 1 is due in week 7.
 -	Coursework 2 covers labs 3 and 4 (networks and SQL injection). These labs are in week 9 and 10 and Coursework 2 is due in week 11.
 
-For each coursework, you will work in groups of 2. We will sort out groups before the labs begin.
+For each coursework, you will work in groups of 4. We will sort out groups before the labs begin.
 You will get an opportunity to form groups of your own by a deadline (to be an-nounced in the lectures), after which I will randomly assign the remaining students to groups.
 
-**Admin suggests that there will be over 80 students on the unit this year.
+**Admin suggests that there will be around 80 students on the unit this year.
 Please understand that I do not have the time to create group assignments based on everyone’s preferences with some kind of matching algorithm – you will get the opportunity to form your own groups of four, anyone not in a group by the deadline must work with whoever they get as their randomly assigned partner.**
 
 # Technical and Reflective sections
@@ -16,13 +16,13 @@ For each lab, you must include two sections in your coursework:
 
 -	A technical section, describing what you did and how/why it works.
 Imagine that you are writing for another student who has not taken this unit: they should be able, after reading your technical part, to both reproduce your attacks by following the steps you give and to have a basic understanding of what is happening.
--	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in the associated technical section.
+-	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in the associated technical section (there are two pieces of reflective work to submit, one for each lab).
 The reflective section require a significant amount of self-directed research to achieve a top grade.
 You will be expected to read through the academic literature and to produce a critical survey.
 You may want to refer to this [document](https://www.cl.cam.ac.uk/teaching/1112/R01/p83-keshav.pdf)
 as a guideline.
 
-The technical section account for 40% of your coursework grade, while the reflective section account for 60%.
+The technical section accounts for 40% of your coursework grade, while the reflective section accounts for 60%.
 
 # Submission rules
 
@@ -44,21 +44,21 @@ For the reflective sections, you must submit a PDF file with exactly 4 pages (ex
 -	Pages 1-2 must contain the reflective section for the first lab.
 -	Pages 3-4 must contain the reflective section for the second lab.
 -	Your candidate numbers must be included on at least pages 1 and 3.
-- You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_template).
+- You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/Labs/template).
 
 The reason for these rules is so that I can print all reflections, easily sort them into “lab 1” and “lab 2” piles and then mark them efficiently together with my TAs while trying my hardest to make the assignment and marking scale the same for everyone, be able to cross-check marks for consistency at the end and still get everything marked (I hope) within 3 weeks.
 Each reflection will be marked out of 100 according to the M-scale (i.e. 70/100 is already “excellent”).
 Minor violations of the page limit rule will result in a penalty of 0.5 marks.
-You will receive written feedback on your reflections, uploaded as a text file to SAFE.
+You will receive written feedback on your reflections, **somewhere TBC**.
 
 ## Technical sections
 There is no strict limit for these but don’t go overboard. I suggest an upper limit of 4 pages per lab. Anything over 8 pages (including images, references) is probably excessive for most of the labs.
 Do not take any screenshots of terminals: instead, copy and paste the text and format it in a monospace font.
-You will receive a mark out of 100 for each technical section and feedback in a text file uploaded to SAFE.
+You will receive a mark out of 100 for each technical section and feedback **somewhere TBC**.
 
 ## Work distribution
 All group members are responsible for all the submitted work.
-Only one member of each group needs to submit to SAFE.
+Only one member of each group needs to submit to **somewhere TBC**.
 You may not assign individual sections to different group members, but all group members are responsible for all sections.
 **There will be no grade adjustment based on how you internally distributed the work**.
 

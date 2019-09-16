@@ -117,7 +117,7 @@ The labs are:
 
 The grading scheme is to be applied on each question individually.
 The results are then translated over 10, not that grade transposition is not done on a linear scale.
-Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a large number of 4s.
+Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
 Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
 
 | Grade | Meaning                    |

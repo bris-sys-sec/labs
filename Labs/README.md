@@ -19,6 +19,8 @@ Imagine that you are writing for another student who has not taken this unit: th
 -	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in the associated technical section.
 The reflective section require a significant amount of self-directed research to achieve a top grade.
 You will be expected to read through the academic literature and to produce a critical survey.
+You may want to refer to this [document](https://www.cl.cam.ac.uk/teaching/1112/R01/p83-keshav.pdf)
+as a guideline.
 
 The technical section account for 40% of your coursework grade, while the reflective section account for 60%.
 

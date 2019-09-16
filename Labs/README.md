@@ -110,3 +110,25 @@ The labs are:
 2. [Buffer Overflows](https://github.com/bris-sys-sec/labs/tree/master/Labs/2_Buffer_Overflows)
 3. [SQL Injection](https://github.com/bris-sys-sec/labs/tree/master/Labs/3_SQL_Injection)
 4. [Networks](https://github.com/bris-sys-sec/labs/tree/master/Labs/4_Networks)
+
+# Mark scheme
+
+## Technical reports
+
+The grading scheme is to be applied on each question individually.
+The results are then translated over 10, not that grade transposition is not done on a linear scale.
+Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a large number of 4s.
+Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
+
+| Grade | Meaning                    |
+|-------|----------------------------|
+| 0     | The task was not attempted |
+| 1     | The task was attempted but there are major flaws, for example: 1) the attack does not work most of the time; 2) Code that does not compile; 3) the write-up contains serious mistakes that mean it won't work if you follow the instructions; 4) key steps are missing in the write-up. |
+| 2     | The attack works (most of the time) but there are flaws, e.g. 1) the attack only works some of the time, but there is an obvious attack that always works; 2) typos in the write-up that affect the attack, even though it's clear the students got it to work; 3) ambiguous instructions – the students may have got the attack to work,
+but someone following the instructions to the letter would be unlikely to. |
+| 3     | following the instructions gets the attack to work. |
+| 4     | the attack not only works by following the instructions but it goes beyond what
+one would expect – for example: 1) students have found a shortcut that we have not anticipated; 2) students have performed a more general version of the attack than the one described; 3) students have written a script for an attack where getting it to work
+manually was all that was needed – AND their script always works |
+
+## Reflective reports

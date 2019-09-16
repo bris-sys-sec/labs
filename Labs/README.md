@@ -137,7 +137,7 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 | 10-50 | The students demonstrate a lack of understanding of both the literature and the technical underpinning of the coursework. |
 | 50-60 | The students demonstrate reasonable technical understanding, but failed to engage with the literature. |
 | 60-65 | The students demonstrate strong technical understanding and have engaged with the literature. The students have engaged in minimal self-directed research. However, the reflection is shallow and fail to demonstrate students insights and/or critical though.|
-| 65-70 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. However, the research remain shallow and the students do not go beyond the obvious, but the students are able to critically assess the solutions discussed in their report. |
+| 65-70 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. The students are able to critically assess the solutions discussed in their report. However, the research remain shallow and the students do not go beyond the obvious. |
 | 70-100 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. There is clear sign of extensive self-directed research going beyond the obvious. |
 
 The grade of the two reports corresponding to a coursework is averaged.

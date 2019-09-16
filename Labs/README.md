@@ -47,14 +47,14 @@ For the reflective sections, you must submit a PDF file with exactly 4 pages (ex
 - You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_template).
 
 The reason for these rules is so that I can print all reflections, easily sort them into “lab 1” and “lab 2” piles and then mark them efficiently together with my TAs while trying my hardest to make the assignment and marking scale the same for everyone, be able to cross-check marks for consistency at the end and still get everything marked (I hope) within 3 weeks.
-Each reflection will be marked out of 10 according to the M-scale (i.e. 7/10 is already “excellent”).
+Each reflection will be marked out of 100 according to the M-scale (i.e. 70/100 is already “excellent”).
 Minor violations of the page limit rule will result in a penalty of 0.5 marks.
 You will receive written feedback on your reflections, uploaded as a text file to SAFE.
 
 ## Technical sections
 There is no strict limit for these but don’t go overboard. I suggest an upper limit of 4 pages per lab. Anything over 8 pages (including images, references) is probably excessive for most of the labs.
 Do not take any screenshots of terminals: instead, copy and paste the text and format it in a monospace font.
-You will receive a mark out of 10 for each technical section and feedback in a text file uploaded to SAFE.
+You will receive a mark out of 100 for each technical section and feedback in a text file uploaded to SAFE.
 
 ## Work distribution
 All group members are responsible for all the submitted work.
@@ -116,7 +116,7 @@ The labs are:
 ## Technical reports
 
 The grading scheme is to be applied on each question individually.
-The results are then translated over 10, not that grade transposition is not done on a linear scale.
+The results are then translated over 100, not that grade transposition is not done on a linear scale.
 Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
 Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
 

@@ -115,11 +115,6 @@ The labs are:
 
 ## Technical reports
 
-The grading scheme is to be applied on each question individually.
-The results are then translated over 100, not that grades transposition is not done on a linear scale.
-Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
-Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
-
 | Grade | Meaning                    |
 |-------|----------------------------|
 | 0     | The task was not attempted |
@@ -127,6 +122,12 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 | 2     | The attack works (most of the time) but there are flaws, e.g. 1) the attack only works some of the time, but there is an obvious attack that always works; 2) typos in the write-up that affect the attack, even though it's clear the students got it to work; 3) ambiguous instructions – the students may have got the attack to work, but someone following the instructions to the letter would be unlikely to. |
 | 3     | following the instructions gets the attack to work. |
 | 4     | the attack not only works by following the instructions but it goes beyond what one would expect – for example: 1) students have found a shortcut that we have not anticipated; 2) students have performed a more general version of the attack than the one described; 3) students have written a script for an attack where getting it to work manually was all that was needed – AND their script always works |
+
+The grading scheme is to be applied on each question individually.
+The resulting grades are then transposed over 100.
+**Note** that grades transposition is not done on a linear scale.
+Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
+Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
 
 ## Reflective reports
 
@@ -138,3 +139,6 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 | 60-65 | The students demonstrate strong technical understanding and have engaged with the literature. The students have engaged in minimal self-directed research. However, the reflection is shallow and fail to demonstrate students insights and/or critical though.|
 | 65-70 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. However, the research remain shallow and the students do not go beyond the obvious, but the students are able to critically assess the solutions discussed in their report. |
 | 70-100 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. There is clear sign of extensive self-directed research going beyond the obvious. |
+
+The grade of the two reports corresponding to a coursework is averaged.
+Individual grade and feedback will be given for each report.

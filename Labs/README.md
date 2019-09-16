@@ -116,7 +116,7 @@ The labs are:
 ## Technical reports
 
 The grading scheme is to be applied on each question individually.
-The results are then translated over 100, not that grade transposition is not done on a linear scale.
+The results are then translated over 100, not that grades transposition is not done on a linear scale.
 Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
 Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
 
@@ -129,3 +129,12 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 | 4     | the attack not only works by following the instructions but it goes beyond what one would expect – for example: 1) students have found a shortcut that we have not anticipated; 2) students have performed a more general version of the attack than the one described; 3) students have written a script for an attack where getting it to work manually was all that was needed – AND their script always works |
 
 ## Reflective reports
+
+| Grade | Meaning                    |
+|-------|----------------------------|
+| 0     | The task was not attempted |
+| 10-50 | The students demonstrate a lack of understanding of both the literature and the technical underpinning of the coursework. |
+| 50-60 | The students demonstrate reasonable technical understanding, but failed to engage with the literature. |
+| 60-65 | The students demonstrate strong technical understanding and have engaged with the literature. The students have engaged in minimal self-directed research. However, the reflection is shallow and fail to demonstrate students insights and/or critical though.|
+| 65-70 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. However, the research remain shallow and the students do not go beyond the obvious, but the students are able to critically assess the solutions discussed in their report. |
+| 70-100 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. There is clear sign of extensive self-directed research going beyond the obvious. |

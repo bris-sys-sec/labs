@@ -133,13 +133,14 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 
 | Grade | Meaning                    |
 |-------|----------------------------|
-| 0     | The task was not attempted |
-| 10-50 | The students demonstrate a lack of understanding of both the literature and the technical underpinning of the coursework. |
-| 50-60 | The students demonstrate reasonable technical understanding, but failed to engage with the literature. |
-| 60-65 | The students demonstrate strong technical understanding and have engaged with the literature. The students have engaged in minimal self-directed research. However, the reflection is shallow and fail to demonstrate students insights and/or critical though.|
-| 65-70 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. The students are able to critically assess the solutions discussed in their report. However, the research remain shallow and the students do not go beyond the obvious. |
-| 70-80 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The student can critically assess the presented solutions. The report demonstrates extensive self-directed research going beyond the obvious. |
-| 80-100 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The students have engaged with state of the art research and demonstrated in depth technical and critical understanding of those solutions. |
+| 0     | The task was not attempted. |
+| 10-49 | The students demonstrate a lack of understanding of both the literature and the technical underpinning of the coursework. |
+| 50-54 | The students demonstrate reasonable technical understanding, but failed to engage with the literature. |
+| 55-59 | The students demonstrate strong technical understanding and have engaged with the literature. The students have engaged in minimal self-directed research. However, the reflection is shallow and fail to demonstrate students insights and/or critical though.|
+| 60-64 | The students demonstrate strong technical understanding and have engaged critically with the literature. There is sign of self-directed research. The students are able to critically assess the solutions discussed in their report. However, the research remain shallow and the students do not go beyond the obvious. |
+| 65-69 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The student can critically assess the presented solutions. The report demonstrates self-directed research going beyond the obvious. |
+| 70-79 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The students have engaged with state of the art research and demonstrated in depth technical and critical understanding of those solutions. |
+| 80-100| The work approaches or makes an original contribution to security research. |
 
 The grade of the two reports corresponding to a coursework is averaged.
 Individual grade and feedback will be given for each report.

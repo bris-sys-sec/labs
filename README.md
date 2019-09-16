@@ -8,18 +8,18 @@ Where code is reference in a lab sheet, you will find it under the same director
 You should start with [Lab 0](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_Pre-lab), which explains how to set up the virtual machines and software that you will need throughout this course.
 The scripts that set up the VMs are found in the [VMs](https://github.com/bris-sys-sec/labs/tree/master/VMs) folder, and you should run all the Vagrant commands inside it.
 
+Template
+--------
+
+The template to be used for the report can be found in [template folder](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_template).
+
 Labs
 ----
+
+[General instrustions](https://github.com/bris-sys-sec/labs/tree/master/Labs)
 
 0. [Pre-lab](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_Pre-lab): Setting up and getting ready. Please start here.
 1. [Format Strings](https://github.com/bris-sys-sec/labs/tree/master/Labs/1_Format_Strings)
 2. [Buffer Overflows](https://github.com/bris-sys-sec/labs/tree/master/Labs/2_Buffer_Overflows)
 3. [SQL Injection](https://github.com/bris-sys-sec/labs/tree/master/Labs/3_SQL_Injection)
 4. [Networks](https://github.com/bris-sys-sec/labs/tree/master/Labs/4_Networks)
-
-Docs
-----
-
-There is a [separate repository with documents relevant for the couse](https://github.com/bris-sys-sec/docs).
-In particular, here you can find a [timetable](https://github.com/bris-sys-sec/docs/blob/master/TimetableByWeekPDF.pdf) and the [coursework specs](https://github.com/bris-sys-sec/docs/blob/master/coursework.pdf).
-

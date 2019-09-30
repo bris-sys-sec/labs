@@ -16,7 +16,7 @@ For each lab, you must include two sections in your coursework:
 
 -	A technical section, describing what you did and how/why it works.
 Imagine that you are writing for another student who has not taken this unit: they should be able, after reading your technical part, to both reproduce your attacks by following the steps you give and to have a basic understanding of what is happening.
--	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in the associated technical section (there are two pieces of reflective work to submit, one for each lab).
+-	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in **one** of the associated technical section.
 The reflective section require a significant amount of self-directed research to achieve a top grade.
 You will be expected to read through the academic literature and to produce a critical survey.
 You may want to refer to this [document](https://www.cl.cam.ac.uk/teaching/1112/R01/p83-keshav.pdf)
@@ -41,15 +41,15 @@ You must include the candidate numbers (5-digit numbers, NOT your usernames) of 
 
 ## Reflective sections
 For the reflective sections, you must submit a PDF file with exactly 4 pages (excluding references) per coursework:
--	Pages 1-2 must contain the reflective section for the first lab.
--	Pages 3-4 must contain the reflective section for the second lab.
--	Your candidate numbers must be included on at least pages 1 and 3.
+-	Pages 1-4 must contain your reflective report.
+- You must clearly identify the vulnerability you are discussing.
+-	Your candidate numbers must be included on at least pages 1.
 - You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/Labs/template).
 
-The reason for these rules is so that I can print all reflections, easily sort them into “lab 1” and “lab 2” piles and then mark them efficiently together with my TAs while trying my hardest to make the assignment and marking scale the same for everyone, be able to cross-check marks for consistency at the end and still get everything marked (I hope) within 3 weeks.
-Each reflection will be marked out of 100 according to the M-scale (i.e. 70/100 is already “excellent”).
-Minor violations of the page limit rule will result in a penalty of 0.5 marks.
 You will receive written feedback on your reflections, **somewhere TBC**.
+
+**Note:** It is easier to write a good report on a more complex vulnerability than on a simpler one.
+Chose wisely.
 
 ## Technical sections
 There is no strict limit for these but don’t go overboard. I suggest an upper limit of 4 pages per lab. Anything over 8 pages (including images, references) is probably excessive for most of the labs.
@@ -125,7 +125,7 @@ The labs are:
 
 The grading scheme is to be applied on each question individually.
 The resulting grades are then transposed over 100.
-**Note** that grades transposition is not done on a linear scale.
+**Note:** that grades transposition is not done on a linear scale.
 Obtaining mostly 3s will land you a grade around 65%, while going above 70% requires a significant number of 4s.
 Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade around 40%.
 
@@ -141,6 +141,3 @@ Mostly 2s will lead to a grade of around 55% and mostly 1s will lead to a grade 
 | 65-69 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The student can critically assess the presented solutions. The report demonstrates self-directed research going beyond the obvious. |
 | 70-79 | The students demonstrate strong technical understanding and have engaged in a critical manner with the literature. The students have engaged with state of the art research and demonstrated in depth technical and critical understanding of those solutions. |
 | 80-100| The work approaches or makes an original contribution to security research. |
-
-The grade of the two reports corresponding to a coursework is averaged.
-Individual grade and feedback will be given for each report.

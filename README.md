@@ -39,7 +39,7 @@ To do so, go in this website:
 https://outlook.office365.com/owa/calendar/bk_ThomasPasquierOfficehours@bristol.ac.uk/bookings/
 
 - pick "Systems Security" (from the options at the top of the page)
-- in the "Select Staff" dropdown meny pick the name of your TA
+- in the "Select Staff" dropdown menu pick the name of your TA
 - pick a date
 - fill the information at the bottom of the page (**IN THE NOTES SECTION WRITE DOWN WHY YOU WANT TO MEET THE TA, BEING AS PRECISE AS POSSIBLE [i.e. I cannot get the command X to work]**)
 - submit

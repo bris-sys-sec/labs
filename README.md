@@ -24,6 +24,12 @@ Labs
 3. [SQL Injection](https://github.com/bris-sys-sec/labs/tree/master/Labs/3_SQL_Injection)
 4. [Networks](https://github.com/bris-sys-sec/labs/tree/master/Labs/4_Networks)
 
+Groups
+------
+
+The list of groups can be found [here](./1920-groups.pdf).
+This document also indicate TA/Group pairing.
+
 Meeting with your TA outside lab time
 -------------------------------------
 

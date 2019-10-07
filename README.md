@@ -23,3 +23,18 @@ Labs
 2. [Buffer Overflows](https://github.com/bris-sys-sec/labs/tree/master/Labs/2_Buffer_Overflows)
 3. [SQL Injection](https://github.com/bris-sys-sec/labs/tree/master/Labs/3_SQL_Injection)
 4. [Networks](https://github.com/bris-sys-sec/labs/tree/master/Labs/4_Networks)
+
+Meeting with your TA outside lab time
+-------------------------------------
+
+If you are stuck and cannot progress, you can ask to meet your TA.
+
+To do so, go in this website:
+https://outlook.office365.com/owa/calendar/bk_ThomasPasquierOfficehours@bristol.ac.uk/bookings/
+
+- pick "Systems Security"
+- in the "Select Staff" dropdown meny pick the name of your TA
+- pick the date
+- fill the information at the bottom of the page (**IN THE NOTES SECTION WRITE DOWN WHY YOU WANT TO MEET THE TA, BEING AS PRECISE AS POSSIBLE [i.e. I cannot get the command X to work]**)
+- submit
+- the booking will be added to your calendar and you will receive a confirmation e-mail

@@ -11,7 +11,7 @@ The scripts that set up the VMs are found in the [VMs](https://github.com/bris-s
 Template
 --------
 
-The template to be used for the report can be found in [template folder](https://github.com/bris-sys-sec/labs/tree/master/Labs/0_template).
+The template to be used for the report can be found in [template folder](https://github.com/bris-sys-sec/labs/tree/master/template).
 
 Labs
 ----

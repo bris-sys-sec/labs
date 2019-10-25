@@ -12,11 +12,11 @@ Please understand that I do not have the time to create group assignments based 
 
 # Technical and Reflective sections
 
-For each lab, you must include two sections in your coursework:
-
--	A technical section, describing what you did and how/why it works.
+For each lab, you must include the following in your coursework:
+A technical section, describing what you did and how/why it works.
 Imagine that you are writing for another student who has not taken this unit: they should be able, after reading your technical part, to both reproduce your attacks by following the steps you give and to have a basic understanding of what is happening.
--	A reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in **one** of the associated technical section.
+
+In addition, you must submit a reflective section, in which you critically reflect on and discuss solutions relating to **one** of the vulnerabilities seen in **one** of the associated technical section.
 The reflective section require a significant amount of self-directed research to achieve a top grade.
 You will be expected to read through the academic literature and to produce a critical survey.
 You may want to refer to this [document](https://www.cl.cam.ac.uk/teaching/1112/R01/p83-keshav.pdf)
@@ -31,7 +31,7 @@ Some of the rules are also designed to limit the amount of work you are expected
 Please read the rules carefully – deviations that disrupt the marking process may result in losing marks.
 
 ## General rules
--	For each coursework, you must submit two pdf files, one containing the technical sections and one containing the reflective sections.
+-	For each coursework, you must submit two pdf files, one containing the technical section and one containing the reflective section.
 The names of the files should make clear which is which.
 -	**You must submit PDF files**, not text files, word documents, JPEGs of scanned documents, TeX sources etc.  
 Anything else will receive 0 marks.

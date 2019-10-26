@@ -44,7 +44,7 @@ For the reflective sections, you must submit a PDF file with exactly 4 pages (ex
 -	Pages 1-4 must contain your reflective report.
 - You must clearly identify the vulnerability you are discussing.
 -	Your candidate numbers must be included on at least pages 1.
-- You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/Labs/template).
+- You must use the provided [template](https://github.com/bris-sys-sec/labs/tree/master/template).
 
 You will receive written feedback on your reflections, **somewhere TBC**.
 
